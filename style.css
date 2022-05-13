@@ -1,0 +1,57 @@
+body {
+    background-image: url(images/darkwoodbg.jpg);
+}
+
+.title {
+    color: #035b96;
+    text-decoration: none;
+}
+
+.pfp {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid #444c56;
+    vertical-align: middle
+}
+
+h2 {
+    color: #035b96;
+    text-align: center;
+    font-family: Sans-serif;
+}
+
+p {
+    color: #c9d1d9;
+    text-align: center;
+    font-size: large;
+    font-family: Sans-serif;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    background-color: #2d333b;
+    border-radius: 12px;
+    font-family: Sans-serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav li {
+    padding: 0px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #035b96
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
